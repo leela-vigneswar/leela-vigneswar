@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/leela-vigneswar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:y.leelavignesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=0A66C2" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=leela-vigneswar&style=for-the-badge&color=0A66C2" alt="Profile views">
 </p>
 
 ---
