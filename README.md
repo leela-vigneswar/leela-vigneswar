@@ -19,16 +19,16 @@
 
 <p align="center">
   <br clear="both">
-
+<img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
 
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
-  <img src="https://komarev.com/ghpvc/?username=leela-vigneswar&style=for-the-badge&color=0A66C2" alt="Profile views">
-</p>
+  
+<!--   <img src="https://komarev.com/ghpvc/?username=leela-vigneswar&style=for-the-badge&color=0A66C2" alt="Profile views">
+</p> -->
 
 ---
 
