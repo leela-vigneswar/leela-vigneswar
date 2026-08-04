@@ -4,6 +4,12 @@
   Replace every YOUR-USERNAME and YOUR-LINKEDIN placeholder before publishing.
 -->
 
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="center">Hi, I'm Leela Vigneswar Reddy Y 👋</h1>
 
 <p align="center">
@@ -12,12 +18,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leela-vigneswar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:y.leelavignesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <br clear="both">
+
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+</div>
+
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SAA">
   <img src="https://komarev.com/ghpvc/?username=leela-vigneswar&style=for-the-badge&color=0A66C2" alt="Profile views">
 </p>
