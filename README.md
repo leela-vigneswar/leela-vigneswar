@@ -134,15 +134,14 @@ Most of my work sits at the intersection of three things: **infrastructure that 
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Top languages">
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&theme=github-dark" alt="Streak stats">
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/leela-vigneswar/leela-vigneswar/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/leela-vigneswar/leela-vigneswar/trophy-output/trophy.svg?theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 ---
 
 ## 🎓 Certifications & Education
