@@ -34,7 +34,7 @@
 
 ## 🧭 About
 
-DevOps engineer with **6+ years** running production workloads on AWS — from EKS clusters and Terraform modules to CI/CD pipelines that dev teams actually trust.
+DevOps engineer with **7+ years** running production workloads on AWS — from EKS clusters and Terraform modules to CI/CD pipelines that dev teams actually trust.
 
 Most of my work sits at the intersection of three things: **infrastructure that provisions itself**, **pipelines that catch problems before prod does**, and **observability that answers questions instead of just raising alarms.**
 
